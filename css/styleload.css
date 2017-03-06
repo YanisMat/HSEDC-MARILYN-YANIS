@@ -1,15 +1,14 @@
 .pulse {
   z-index: 1;
   position: absolute;
-  z-index: 1;
-  top: 0%;
-  right: 80%;
+  top: 45%;
+  right: 51%;
 }
 .pulse:before, .pulse:after {
   content: '';
   border: 5px solid #323232;
-  width: 800px;
-  height: 800px;
+  width: 125px;
+  height: 125px;
   border-radius: 500px;
   position: absolute;
 }

@@ -50,7 +50,7 @@ h1 {
 	-webkit-animation: typing 5s steps(14, end),
 	           blink-caret .7s step-end infinite alternate;
   margin-top: 500px;
-  margin-left: 1150px;
+  margin-left: 70px;
   position: absolute;
 }
 
