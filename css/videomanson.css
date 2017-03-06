@@ -1,15 +1,17 @@
 video {
 /*width: 100vw;*/
-  min-width: 100%;
+  min-width: 180%;
   min-height: 100%;
-  width: auto;
-  height: auto;
+  width: 1874px;
+  height: 1500px;
   position: absolute;
-  top: 50%;
+  margin-top: 591px;
+  /*top: 50%;*/
   left: 50%;
   transform: translate(-50%,-50%);
+
 }
 
-.videomanson {
+/*.videomanson {
   width: 200vw;
-}
+}*/
